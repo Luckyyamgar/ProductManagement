@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucky/static/css/main.29ceefbf.css",
+    "main.js": "/lucky/static/js/main.447b180f.js",
+    "static/js/787.cf4ffb94.chunk.js": "/lucky/static/js/787.cf4ffb94.chunk.js",
+    "index.html": "/lucky/index.html",
+    "main.29ceefbf.css.map": "/lucky/static/css/main.29ceefbf.css.map",
+    "main.447b180f.js.map": "/lucky/static/js/main.447b180f.js.map",
+    "787.cf4ffb94.chunk.js.map": "/lucky/static/js/787.cf4ffb94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ceefbf.css",
+    "static/js/main.447b180f.js"
+  ]
+}
